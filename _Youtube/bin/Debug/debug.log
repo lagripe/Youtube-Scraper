@@ -1,0 +1,1962 @@
+[0903/182515:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/182515:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/182804:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/182804:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/182824:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/182824:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/184552:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/184552:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/193559:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/193559:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/200132:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/200132:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/201531:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/201531:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/201623:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/201623:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/202127:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/202127:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/202732:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/202732:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203056:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203056:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203333:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203333:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203345:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0903/203414:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203414:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203458:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/203458:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/203459:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/203511:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203511:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203533:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 39
+[0903/203614:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203614:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203626:FATAL:memory.cc(19)] Out of memory. size=4194304
+[0903/203636:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203636:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203717:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/203717:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/203745:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/203745:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204021:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/204021:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/204029:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0903/204030:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0903/204030:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0903/204030:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0903/204030:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0903/204032:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0903/204034:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0903/204034:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0903/204037:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0903/204037:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0903/204038:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0903/204039:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0903/204040:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0903/204044:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0903/204045:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0903/204046:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0903/204053:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0903/204054:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0903/204057:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/204057:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/204107:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0903/204108:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0903/204109:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0903/204109:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0903/204110:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0903/204110:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0903/204110:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0903/204110:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0903/204111:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0903/204111:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0903/204133:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0903/204346:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204346:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204405:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204604:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/204604:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/204710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0903/204924:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/204924:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/204943:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0903/205156:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/205156:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/205314:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/205314:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0903/205907:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0903/205908:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/000414:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/000414:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/000428:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/000430:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/000435:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/000439:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/000439:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/000440:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/000448:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/000451:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/000459:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/000500:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/000501:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/000503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/000503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/000506:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/000508:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/000509:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/000509:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/000511:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/000512:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/000514:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/000514:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/000951:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/000951:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/001018:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/001038:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001038:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/001139:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001139:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/001148:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001148:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/001210:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/001211:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/001220:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001220:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/001515:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/001515:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/001744:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001744:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/001838:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/001838:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/002120:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/002120:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/002236:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/002236:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/002257:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/002258:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/002258:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/002345:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/002345:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/002533:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/002533:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/002649:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/002707:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/002710:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/002710:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/002711:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/002925:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/002925:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/002955:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/003029:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/003255:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/003255:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/003531:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/003531:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/003645:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/003645:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/003659:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/003659:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/003732:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/003733:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/003734:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/003734:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/003735:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/003736:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/003846:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/003846:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/003846:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/003846:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/004042:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/004042:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/010303:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/010303:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/010315:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/010850:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/010850:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/010939:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/010943:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/010943:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/010945:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/010946:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/010948:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/010948:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/010948:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/010949:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/010951:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/010952:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/010953:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/010955:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/010957:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/010957:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/011323:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/011323:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/011450:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/011555:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/011559:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/011600:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/011702:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/011702:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/011720:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/011842:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/011850:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/011904:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/012043:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/012213:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/012213:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/012218:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/012301:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/012301:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/012326:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/012326:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/012507:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/012507:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/012628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/012628:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/013019:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/013019:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/013104:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/013104:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/013124:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/013124:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/013144:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/013148:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/013153:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/013154:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/013155:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/013156:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/013158:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/013203:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/013204:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/013205:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/013208:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/013209:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/013212:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/013212:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/013214:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/013346:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/013346:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/013346:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/013346:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/013550:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/013550:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/013615:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/013623:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/013723:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/013919:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/013919:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/014004:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/014005:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/014028:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/014059:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/014059:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/014059:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/014419:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014419:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014447:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014455:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014615:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014716:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014801:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014805:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014856:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/014941:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015139:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015305:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015357:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015410:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/015414:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015421:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 143
+[0904/015426:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 141
+[0904/015437:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 145
+[0904/015445:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 147
+[0904/015445:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 149
+[0904/015451:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 151
+[0904/015453:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 153
+[0904/015456:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 157
+[0904/015457:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 161
+[0904/015458:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 159
+[0904/015500:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 155
+[0904/015541:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015548:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/015637:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/020519:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/020519:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/020536:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/020537:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/020537:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/020537:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/021310:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/021310:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/021332:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/021332:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/022001:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/022001:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/022007:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0904/023152:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/023152:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/023925:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/023925:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/023932:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/024008:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/024026:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/024331:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024331:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024358:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024407:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024529:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024613:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024715:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024820:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024858:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/024944:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025048:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025139:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025223:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025310:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025319:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 197
+[0904/025320:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025412:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025441:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 233
+[0904/025441:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025445:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 227
+[0904/025447:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 225
+[0904/025448:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 223
+[0904/025451:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 229
+[0904/025656:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025735:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025803:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 285
+[0904/025804:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/025934:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/030024:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 299
+[0904/030122:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/030127:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/030151:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/032151:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/032151:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/032203:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/032203:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/032624:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/032624:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/032717:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/032728:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/032823:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/033050:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/033138:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/033248:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/033508:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/033508:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/034039:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/034039:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/034100:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/034149:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/034222:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/034222:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/034421:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/034841:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/034841:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035024:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035109:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035156:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035221:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 59
+[0904/035223:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035237:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 63
+[0904/035239:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 61
+[0904/035413:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035418:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035509:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/035631:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/142956:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/142956:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/143005:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/143009:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/143010:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/143010:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/143010:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/143011:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/143604:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/143604:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/143648:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/143653:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/143654:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/143702:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/143706:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/143708:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/143711:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/143717:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/143717:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/143724:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/143726:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/143729:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/143731:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/143738:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/143739:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/143743:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/143745:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/143746:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/143748:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/143845:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/143845:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/143902:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/143902:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/145254:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/145254:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/145314:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/145314:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/145537:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/145537:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/145628:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/145628:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/145631:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/145634:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/145635:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/145636:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/145638:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/145907:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/145907:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/150051:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/150135:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/150135:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/150420:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/150420:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/153154:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/153154:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/153256:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/153256:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/153308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/153308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/153308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/153308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/153308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/153309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/153310:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/153311:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/153311:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/153311:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/153311:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/153312:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/153312:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/153313:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/153313:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153322:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/153322:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/153332:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/153344:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0904/153559:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/153559:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/153656:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/153727:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153728:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/153734:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/153734:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/153736:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/153738:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/153739:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/153740:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/153740:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153741:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/153742:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/153743:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/153744:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/153745:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/153746:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/153747:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/153747:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/153755:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/153838:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/153844:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/153845:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/153845:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 35
+[0904/153846:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 43
+[0904/153850:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 39
+[0904/153851:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 37
+[0904/153852:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 41
+[0904/153900:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/153900:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/153902:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/153904:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/153905:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/153907:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/153909:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/154242:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/154242:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/154355:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/154355:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/155045:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155045:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155045:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155053:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155217:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155335:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155341:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/155522:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/155522:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/155639:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/155642:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/155642:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/155643:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/155645:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/155648:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/155650:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/155652:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/155701:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/155701:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/155704:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/155704:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/155708:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/155708:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/155709:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/155710:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/155728:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/155728:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/160001:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/160004:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/160004:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/160004:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/160005:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/160007:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/160008:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0904/160012:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/160015:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0904/160021:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/160024:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 31
+[0904/160025:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0904/160027:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0904/160031:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 33
+[0904/160050:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160050:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160121:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160207:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160313:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160358:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160453:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/160626:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/160626:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/160841:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/160842:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/160844:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/160906:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/161144:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/161144:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/161341:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/161341:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/161341:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/161427:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/161427:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/161614:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/161614:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/161615:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/161616:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/161616:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/161616:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/161645:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/161645:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/161750:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/161818:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/161820:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/161822:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/161825:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/161827:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/162128:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/162128:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/162229:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/162229:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/162244:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/162244:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/162244:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/162313:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/162313:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/162348:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/162349:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/162350:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/162603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/162825:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/162825:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/162826:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/163011:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163011:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163122:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163122:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 45
+[0904/163139:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163201:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 65
+[0904/163211:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163226:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 81
+[0904/163233:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 59
+[0904/163235:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 61
+[0904/163237:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 57
+[0904/163241:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163320:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 65
+[0904/163320:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 63
+[0904/163508:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/163611:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/195925:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/195925:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/195943:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/195945:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/200015:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/200015:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/200115:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/200115:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/200135:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/200135:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/200359:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/200359:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/200546:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/200742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/200742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/200742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/200751:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0904/200833:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/200857:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/200857:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/200858:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/200905:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/200907:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/200907:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/200907:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/200909:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/201016:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201147:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201222:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201302:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201423:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201501:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201615:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201634:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201728:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201733:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 169
+[0904/201734:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201811:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/201945:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202026:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202103:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202139:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202222:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202413:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202420:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202609:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202912:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/202918:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203030:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203035:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203150:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203413:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203423:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203437:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 391
+[0904/203448:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 393
+[0904/203457:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 395
+[0904/203635:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203713:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203742:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203828:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203903:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203907:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203912:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203919:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/203946:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204043:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204145:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204251:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204343:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204454:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204523:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204614:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204620:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204654:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204737:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204743:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204747:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204833:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 735
+[0904/204836:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204930:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/204936:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205025:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205102:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205225:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205229:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205240:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205338:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205411:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205539:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/205808:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/205808:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/205905:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0904/205916:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0904/205938:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/205938:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/210054:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/210054:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/210638:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/210638:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211321:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211321:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211332:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211332:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211348:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211348:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211411:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211411:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211418:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211418:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211425:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0904/211456:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211456:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211534:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211534:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211632:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211632:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211649:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211649:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211705:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211705:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211709:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0904/211724:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211724:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211810:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/211810:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/211828:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211828:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211830:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211844:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211848:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211851:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211855:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211900:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211903:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211907:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211911:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211915:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211921:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211925:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211928:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211931:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211934:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211938:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/211947:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212030:ERROR:ipc_channel_win.cc(482)] pipe error: 109
+[0904/212113:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212113:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212219:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212219:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212239:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212239:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212409:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212409:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212441:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212441:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212456:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212456:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212457:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212521:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212528:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212542:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212548:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212602:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212604:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212612:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212621:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212628:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212632:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212636:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212648:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 139
+[0904/212649:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212654:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212659:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212712:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212714:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212717:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 315
+[0904/212718:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 307
+[0904/212846:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/212846:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/212858:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212858:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212901:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212904:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212908:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212910:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212915:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212920:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212922:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/212926:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213454:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/213454:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/213519:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/213519:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/213536:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213536:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213539:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213539:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/213541:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213546:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213554:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213601:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213602:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 91
+[0904/213602:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 49
+[0904/213602:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 89
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 93
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 95
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 97
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 99
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 109
+[0904/213603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 107
+[0904/213705:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/213705:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/213719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213720:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213722:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/213723:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213726:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213728:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213731:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213734:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213737:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213740:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213743:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213746:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213749:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213753:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213753:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 139
+[0904/213753:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 113
+[0904/213753:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 147
+[0904/213753:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 153
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 151
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 149
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 145
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 155
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 161
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 159
+[0904/213754:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 157
+[0904/213853:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/213853:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/213909:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213909:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213909:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213911:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213916:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213920:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213925:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213928:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213931:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213933:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213937:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213941:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213944:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213947:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/213949:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214038:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214038:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214048:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214048:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214049:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214128:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214128:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214140:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214140:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214142:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214205:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214205:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214224:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214224:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214226:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214229:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214235:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214239:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214245:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214248:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214252:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214255:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214359:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214359:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214411:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0904/214427:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214427:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214434:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/214435:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214441:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214553:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214553:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214609:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214609:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214612:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214615:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214624:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214629:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214857:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/214857:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/214919:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214919:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214919:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214924:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/214924:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214929:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214931:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214934:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214937:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214941:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/214957:ERROR:ipc_channel_win.cc(482)] pipe error: 109
+[0904/215020:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215020:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215028:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215028:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215044:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1
+[0904/215044:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/215046:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/215047:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 49
+[0904/215048:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 51
+[0904/215628:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215628:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215754:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215754:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215817:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215817:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215851:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/215851:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/215908:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215908:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215910:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215913:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215918:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215921:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/215923:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220312:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220312:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220432:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220432:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220447:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220447:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220449:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220455:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220457:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220500:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 77
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 75
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 73
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 71
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 69
+[0904/220502:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 67
+[0904/220503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 65
+[0904/220503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 63
+[0904/220503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 61
+[0904/220503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 59
+[0904/220503:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 57
+[0904/220544:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220544:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220603:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220603:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220606:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220632:ERROR:ipc_channel_win.cc(482)] pipe error: 109
+[0904/220710:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220710:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220752:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220752:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220812:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220812:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220814:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220817:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/220846:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/220846:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/220916:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220916:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/220920:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222107:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222107:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222203:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222203:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222218:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222218:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222220:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222656:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222656:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222725:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222725:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222740:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222740:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222755:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222755:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222811:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222811:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222815:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222815:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222847:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222847:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222855:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/222855:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/222942:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222942:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222945:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222948:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/222949:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0904/223019:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/223019:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223201:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/223201:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223227:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223227:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223230:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223235:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0904/223235:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223246:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223441:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/223441:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/223455:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223455:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223457:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223501:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223510:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223513:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/223516:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/224027:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224027:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224059:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224059:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224148:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224148:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224236:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224236:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224352:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224352:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224413:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224413:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224431:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224431:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224458:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224458:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224651:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224651:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224712:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224712:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224736:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224736:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224826:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224826:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224923:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224923:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224954:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/224954:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/224956:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0904/225007:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225007:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225021:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225021:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225137:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225137:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225217:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225217:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225323:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225323:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225359:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225359:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225513:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225513:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225619:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225619:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225630:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0904/225641:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0904/225707:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225707:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/225717:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0904/225728:ERROR:ssl_client_socket_openssl.cc(1132)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0904/225741:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0904/225824:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[0904/225942:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/225942:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/230428:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/230428:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/230429:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/230506:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/230506:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/230707:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/230707:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231006:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231006:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231122:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231122:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231245:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231245:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231505:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231505:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231514:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231514:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231557:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231557:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231741:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/231741:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/231853:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0904/231854:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0904/231855:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0904/231858:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0904/231900:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0904/232120:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/232120:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/232214:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/232222:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/232238:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0904/232409:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/232409:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0904/232416:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0904/232416:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/003324:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/003324:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/003905:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/003905:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/003933:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/003946:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004114:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004215:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004315:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004417:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004517:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004540:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004747:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004811:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/004849:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/011834:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/011834:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012007:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012007:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012239:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012239:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012344:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012344:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012344:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012349:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012354:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012359:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012425:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012425:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012425:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012430:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012435:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012440:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012445:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012510:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012510:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012510:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012515:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012520:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012540:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012541:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012541:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012545:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012655:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012655:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012655:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012700:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012705:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012710:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012719:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012719:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012719:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012814:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012814:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012814:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012819:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012824:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012828:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012828:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012828:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012833:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012838:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012842:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/012842:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012842:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/012922:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/012922:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/013010:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0905/013011:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0905/013014:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0905/124929:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/124929:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/125401:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/125401:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/125415:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/125415:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/125431:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/125431:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/125749:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/125749:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/125910:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/125910:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/130028:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/130028:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/180238:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/180238:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/180244:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/180244:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/180351:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/180351:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/180355:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/180355:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/181850:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/181850:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184248:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/184248:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184537:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/184537:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184621:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/184621:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184644:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/184644:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184711:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/184711:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/184757:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0905/184806:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0905/184806:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0905/184806:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0905/184812:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0905/184812:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0905/185137:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/185137:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/185255:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/185420:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/185513:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/185726:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/185726:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/185728:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0905/185836:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/185836:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/185912:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/185912:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/190006:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/190006:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/190036:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/190036:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/190110:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/190110:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/190257:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0905/190312:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0905/190519:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190519:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190740:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190828:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190854:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190912:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/190941:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191057:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191104:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191147:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191206:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191218:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191224:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191231:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 143
+[0905/191232:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191305:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191332:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191543:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191548:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191552:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191641:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191650:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191658:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191703:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191804:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191851:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 295
+[0905/191852:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/191940:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192015:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192116:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192231:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192403:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192703:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192856:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192933:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/192938:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 451
+[0905/192938:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193105:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193210:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193223:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 495
+[0905/193224:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193402:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193408:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193519:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193519:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193703:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193713:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 555
+[0905/193714:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193832:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/193842:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194124:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194129:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194217:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194224:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194230:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 637
+[0905/194230:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 639
+[0905/194230:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 641
+[0905/194231:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194249:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194253:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194410:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194424:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194436:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194441:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194451:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194500:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 727
+[0905/194501:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194631:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194723:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194733:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194808:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194820:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 793
+[0905/194821:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 795
+[0905/194826:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194833:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 805
+[0905/194833:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 807
+[0905/194834:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194838:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 815
+[0905/194842:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/194902:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195127:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195152:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195157:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 875
+[0905/195200:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195307:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195324:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 901
+[0905/195324:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195408:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195411:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 925
+[0905/195412:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195418:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195438:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195443:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195449:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195452:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 971
+[0905/195452:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195458:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195503:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195515:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195518:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195523:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195555:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195558:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1045
+[0905/195559:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195602:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195610:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195614:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195621:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195625:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195640:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195656:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195701:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195705:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195710:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195715:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195725:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1185
+[0905/195726:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195731:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/195736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200025:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200053:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200107:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200112:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200120:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200143:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200200:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200314:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200342:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200402:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200413:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200416:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1359
+[0905/200417:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200422:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200425:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1375
+[0905/200426:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200429:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200438:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1393
+[0905/200438:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200442:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200450:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200453:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200503:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200508:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200514:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1447
+[0905/200515:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200527:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0905/200527:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 7
+[0905/200527:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 5
+[0905/200528:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200535:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0905/200535:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200550:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200555:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 55
+[0905/200603:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200607:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200615:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 75
+[0905/200615:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200637:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200645:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200653:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200704:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 121
+[0905/200705:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 123
+[0905/200705:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200712:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 135
+[0905/200713:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200716:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 143
+[0905/200716:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200719:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 151
+[0905/200720:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200724:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 159
+[0905/200724:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200729:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200733:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 175
+[0905/200734:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200752:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/200901:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 219
+[0905/200901:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 221
+[0905/200902:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201005:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201018:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201032:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 255
+[0905/201032:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201130:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201217:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201237:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201300:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 315
+[0905/201310:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201331:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201342:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201356:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201415:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201432:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201516:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201523:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 411
+[0905/201524:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201540:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 425
+[0905/201541:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201551:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 433
+[0905/201551:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201555:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 441
+[0905/201555:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201605:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 449
+[0905/201605:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201619:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201630:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 475
+[0905/201630:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201641:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 483
+[0905/201642:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201721:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201732:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 511
+[0905/201732:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 513
+[0905/201734:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201815:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201917:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201922:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/201940:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202020:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202028:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 593
+[0905/202029:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202035:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202040:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202045:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202103:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202113:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202117:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 645
+[0905/202117:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202122:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 653
+[0905/202122:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202133:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 665
+[0905/202133:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 667
+[0905/202133:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 669
+[0905/202134:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202137:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 677
+[0905/202138:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202151:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 689
+[0905/202152:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202233:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202239:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202244:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202248:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202251:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202255:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 759
+[0905/202256:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202308:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 769
+[0905/202309:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 771
+[0905/202311:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202316:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202321:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 787
+[0905/202321:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202324:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 795
+[0905/202324:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202330:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 803
+[0905/202330:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202335:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 811
+[0905/202335:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202338:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 819
+[0905/202339:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202349:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 833
+[0905/202350:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202415:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202427:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 865
+[0905/202427:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 867
+[0905/202428:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202439:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 879
+[0905/202439:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 881
+[0905/202439:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202447:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 893
+[0905/202448:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202453:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 901
+[0905/202453:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202456:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 909
+[0905/202456:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202501:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 917
+[0905/202502:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202505:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 925
+[0905/202506:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202509:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202512:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 941
+[0905/202513:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202517:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 949
+[0905/202518:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 951
+[0905/202519:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202522:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202526:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 969
+[0905/202527:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202532:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 977
+[0905/202533:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202538:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202556:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202629:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202653:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202728:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1067
+[0905/202728:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202733:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202740:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202750:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1093
+[0905/202751:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202758:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1103
+[0905/202759:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202805:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202815:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1119
+[0905/202815:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202823:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1129
+[0905/202825:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202933:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/202942:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1165
+[0905/202943:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203000:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203006:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203008:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1191
+[0905/203009:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203013:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203024:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1207
+[0905/203024:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203029:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1217
+[0905/203029:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203034:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203038:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1233
+[0905/203039:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203043:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1241
+[0905/203043:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203047:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1249
+[0905/203047:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1251
+[0905/203047:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1253
+[0905/203047:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203054:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203059:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1269
+[0905/203059:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1271
+[0905/203100:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203104:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1279
+[0905/203105:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203117:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1287
+[0905/203117:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203133:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203154:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203301:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203357:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203416:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1377
+[0905/203416:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203434:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1385
+[0905/203434:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203442:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1393
+[0905/203442:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203448:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1401
+[0905/203448:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203453:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203456:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 1417
+[0905/203457:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/203520:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210410:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/210410:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/210523:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0905/210629:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/210629:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/210640:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210640:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210641:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210905:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/210905:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/210911:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210911:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210916:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210918:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210922:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210927:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210932:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/210935:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/211154:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/211154:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/211204:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/211204:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/211205:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/211233:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/213234:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/213234:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/213315:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/213315:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/213343:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/213343:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/233557:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/233557:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/233647:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/233647:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/233836:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0905/233836:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/233836:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/233836:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/233901:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0905/233938:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234108:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/234108:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/234221:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234221:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234221:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234248:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234257:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234349:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234457:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/234821:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/234821:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/234933:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/234933:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/235020:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235020:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235020:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235028:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235036:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235109:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/235109:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/235110:ERROR:ipc_channel_win.cc(519)] pipe error: 232
+[0905/235117:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0905/235117:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0905/235134:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0905/235204:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235204:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235211:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0905/235217:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003700:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/003700:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/003719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003719:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003721:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003725:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003738:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003757:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003819:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003853:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 73
+[0906/003854:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003856:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003927:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 111
+[0906/003941:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/003942:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 117
+[0906/003943:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 115
+[0906/003955:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 119
+[0906/004008:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004011:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004017:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004021:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004024:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004026:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004048:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/004128:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/004128:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/013934:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/013934:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/013943:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/013943:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/013943:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014016:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/014016:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/014027:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014027:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014028:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014106:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014111:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014113:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014115:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014119:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014121:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014253:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/014253:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/014315:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014315:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014315:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014318:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014320:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014322:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/014325:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015542:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/015542:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/015545:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015545:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015601:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 69
+[0906/015603:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 79
+[0906/015633:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 97
+[0906/015643:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0906/015643:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0906/015651:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015651:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015652:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015656:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015658:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015700:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015703:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015706:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015731:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015733:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0906/015738:ERROR:ipc_channel_win.cc(482)] pipe error: 109
+[0907/004621:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004621:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004623:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004629:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004632:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004634:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004638:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004641:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004645:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004648:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004654:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004657:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004701:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004704:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004706:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004709:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004712:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004714:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004717:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004725:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004729:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004732:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004734:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004737:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004740:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004743:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004748:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004752:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004755:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004758:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004801:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004806:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/004858:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 345
+[0907/133808:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0907/133829:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/133829:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/133838:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/133904:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/133911:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134007:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134121:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134121:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134125:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134129:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134142:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/134157:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142825:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142825:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142826:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142840:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142918:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/142925:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/173715:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0907/173715:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0907/173716:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0907/173716:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0907/173717:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0907/174627:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/174627:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/174629:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/181627:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0907/181630:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0908/002603:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0908/002603:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0908/002612:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0908/002835:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231246:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231247:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231247:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231630:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231755:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/231759:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 57
+[0910/231800:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/232721:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0910/232724:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 29
+[0910/232725:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 27
+[0910/232725:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 25
+[0910/232727:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0910/232729:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 23
+[0910/233002:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/233002:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/233002:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0910/233834:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 3
+[0910/233835:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0910/233836:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0910/233837:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 15
+[0910/233837:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 13
+[0910/233838:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 11
+[0910/233840:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 9
+[0910/234139:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 21
+[0915/183624:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0915/183624:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0915/183653:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183653:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183656:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183657:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 17
+[0915/183659:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183717:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[0915/183717:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0915/183736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183737:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183743:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 19
+[0915/183744:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183750:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183805:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/183917:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/184029:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/184210:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/184252:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185125:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185154:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185159:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185202:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185216:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185222:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185225:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185232:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185245:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185254:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185306:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185354:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185511:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185523:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 159
+[0915/185523:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 161
+[0915/185523:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185530:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185533:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 179
+[0915/185534:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185536:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 185
+[0915/185537:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185541:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185542:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 41
+[0915/185542:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 43
+[0915/185545:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 181
+[0915/185546:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 183
+[0915/185546:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 187
+[0915/185547:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 189
+[0915/185548:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 185
+[0915/185548:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 191
+[0915/185554:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 193
+[0915/185604:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 195
+[0915/185618:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 197
+[0915/185656:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185739:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185750:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185755:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/185802:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 237
+[0915/185820:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 239
+[0915/185840:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 241
+[0915/185841:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 243
+[0915/185842:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 245
+[0915/185843:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 247
+[0915/190002:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190009:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 271
+[0915/190039:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190057:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190105:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190121:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190132:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190134:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190136:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 49
+[0915/190138:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190145:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190151:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 53
+[0915/190154:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 51
+[0915/190202:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 69
+[0915/190203:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 61
+[0915/190204:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 55
+[0915/190206:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 73
+[0915/190207:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 65
+[0915/190208:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 63
+[0915/190209:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 59
+[0915/190214:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 57
+[0915/190248:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190250:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 91
+[0915/190250:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190252:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 93
+[0915/190255:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 95
+[0915/190256:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 107
+[0915/190257:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 97
+[0915/190257:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 103
+[0915/190259:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 105
+[0915/190259:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 99
+[0915/190259:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 101
+[0915/190324:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190328:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 121
+[0915/190329:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190331:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 125
+[0915/190337:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 123
+[0915/190340:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 127
+[0915/190341:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 129
+[0915/190342:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 133
+[0915/190342:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 137
+[0915/190342:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 131
+[0915/190343:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 135
+[0915/190402:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190435:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190440:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190440:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 175
+[0915/190449:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 177
+[0915/190456:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 179
+[0915/190457:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 181
+[0915/190457:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 183
+[0915/190529:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190736:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/190921:WARNING:spdy_session.cc(2427)] Received HEADERS for invalid stream 233
+[0915/190923:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/191131:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[0915/191155:WARNING:quota_manager.cc(1808)] Create directory failed for path
+[1205/013226:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[1205/013226:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
