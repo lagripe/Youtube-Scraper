@@ -5,4 +5,4 @@
 	- Create/Change KeyAPI (Youtube API v3)
 # Screenshot
 
-![Alt text](/Youtube-Scraper/blob/master/sample.PNG?raw=true)
+![Alt text](sample.PNG?raw=true)
